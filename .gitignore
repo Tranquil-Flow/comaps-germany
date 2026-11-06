@@ -216,7 +216,5 @@ tools/unix/maps/settings.sh
 .vs
 
 # VS Code
+.vscode
 .cache
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
